@@ -14,7 +14,7 @@ class Update extends Database
             }
         }
 
-        $final = $table_syntex . rtrim($column, ",") . ") ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci " . ";";
+        $final = $table_syntex . rtrim($column, ",") . ") DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci " . ";";
         return $final;
     }
 
