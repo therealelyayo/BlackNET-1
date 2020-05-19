@@ -132,6 +132,13 @@ v3.5 😈
  + Bugs Fixed
 ````
 
+## Coming Soon
+```
+v3.5.1 [ Miner Update ]
++ Replaced SHA1 Hashing with BCRYPT
++ Bug Fixes
+```
+
 ## Pull Request
 1. Fork the repo
 2. Add your feature
