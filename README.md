@@ -57,9 +57,18 @@ Developed By: Black.Hacker
 1. Clone this Repo
 2. Compress BlackNET panel folder and upload it to your hosting
 3. Create a database with any name you want
-4. Change the data in classes/Database.php
+4. Change the database information in classes/Database.php
 5. Change files and folders permission to 777 [ Uploads Folder, Scripts Folder ]
+7. Make Sure that all DLLs are included in Plugins Folder
 6. Go to install.php to create the botnet tables automatically
+8. Enable a Cron Job for ping.php and remove.php
+
+## How to secure BlackNET
+1. Remove install.php and update.php
+2. Changer username and password
+3. Add an email address to your account
+4. Enable Captcha using Google reCaptcha v2
+5. Enable 2FA on your account
 
 ## Screenshots
 ![Installtion Page](https://i.gyazo.com/e833393d7e3cf126347a9633a8fa5cd0.png)
@@ -136,7 +145,7 @@ v3.5 😈
 ```
 v3.5.1 [ Miner Update ]
 + Replaced SHA1 Hashing with BCRYPT
-+ Lanuching BlackNET Services
++ Launching BlackNET Services
   + All BlackNET Features Included
   + No Installtion Required
   + Handle Your clients over our API
