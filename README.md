@@ -144,9 +144,6 @@ i will review it in 1 - 5 days then i will merge it with the master branch
 - NYAN CAT
 - omerfademir
 
-## Python Edition
-[BlackHacker511/BlackNET-Python](http://github.com/BlackHacker511/BlackNET-Python)
-
 ## LEGAL DISCLAIMER PLEASE READ!
 ##### I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
 
