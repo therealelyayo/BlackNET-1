@@ -136,6 +136,14 @@ v3.5 😈
 ```
 v3.5.1 [ Miner Update ]
 + Replaced SHA1 Hashing with BCRYPT
++ Lanuching BlackNET Services
+  + All BlackNET Features Included
+  + No Installtion Required
+  + Handle Your clients over our API
+  + 100% Privacy
+  + Affordable Prices
+  + Free Private Crypter
+  + 24/7 Support on Discord
 + Bug Fixes
 ```
 
