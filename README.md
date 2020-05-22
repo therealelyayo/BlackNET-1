@@ -148,7 +148,7 @@ v3.5 😈
 ```
 v3.5.1
  + Replaced SHA1 Hashing with BCRYPT
- + Rewrite project in a cleaner method
+ + Rewrite project as in a cleaner way
  + Bug Fixes
 ```
 
