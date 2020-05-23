@@ -149,6 +149,7 @@ v3.5 😈
 v3.5.1
  + Replaced SHA1 Hashing with BCRYPT
  + Rewrite the project in a cleaner way
+ + Added execute shell command
  + Fixed FF Cookies Stealer Bug
  + Bug Fixes
 ```
