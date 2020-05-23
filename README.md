@@ -150,6 +150,7 @@ v3.5.1
  + Replaced SHA1 Hashing with BCRYPT
  + Rewrite the project in a cleaner way
  + Added execute shell command
+ + Added get file by path function
  + Fixed FF Cookies Stealer Bug
  + Bug Fixes
 ```
