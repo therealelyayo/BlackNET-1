@@ -156,6 +156,8 @@ v3.5.1
    + Upload File by Path
    + File Searcher Capability
  + Fixed FF Cookies Stealer Bug
+ + Security Enhancements
+ + UI Enhancements
  + Bug Fixes
 ```
 
