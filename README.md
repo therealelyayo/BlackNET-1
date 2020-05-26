@@ -149,6 +149,7 @@ v3.5 😈
 v3.5.1
  + Replaced SHA1 Hashing with BCRYPT
  + Rewrite the project in a cleaner way
+ + Replaced AES-128 to AES-256 ( Better Encryption )
  + Added execute shell command
    + Execute CMD Commands
    + Powershell capability
@@ -156,6 +157,7 @@ v3.5.1
    + Upload File by Path
    + File Searcher Capability
  + Fixed FF Cookies Stealer Bug
+ + Enhance Anti-Debugger
  + Security Enhancements
  + UI Enhancements
  + Bug Fixes
